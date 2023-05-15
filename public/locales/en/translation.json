@@ -1,0 +1,26 @@
+{
+  "workingWithForms": "Working with forms",
+  "regForm" : {
+    "library": "FORMIK",
+    "firstName": "Firstname",
+    "lastName": "Lastname",
+    "e-mail": "e-mail",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "registration": "Register"
+  },
+  "questionForm": {
+    "library": "REACT HOOK FORM",
+    "fullName": "Fullname",
+    "city": "City",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "youTravelling": "You travelling",
+    "yes": "Yes",
+    "no": "No",
+    "rarely": "Rarely",
+    "cause": "What does it have to do with",
+    "send": "Send"
+  }
+}

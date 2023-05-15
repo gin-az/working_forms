@@ -1,0 +1,27 @@
+{
+  "workingWithForms": "Работа с Формами",
+  "regForm" : {
+    "library": "ФОРМИК",
+    "firstName": "Имя",
+    "lastName": "Фамилия",
+    "e-mail": "Электронная почта",
+    "password": "Пароль",
+    "confirmPassword": "Подтверждение пароля",
+    "registration": "Зарегистрироваться"
+  },
+  "questionForm": {
+    "library": "РЕАКТ ХУК ФОРМ",
+    "fullName": "Фамилия Имя Отчество",
+    "city": "Город",
+    "gender": "Пол",
+    "male": "Мужской",
+    "female": "Женский",
+    "youTravelling": "Вы путешествуете",
+    "yes": "Да",
+    "no": "Нет",
+    "rarely": "Редко",
+    "cause": "С чем это связано",
+    "send": "Отправить"
+  }
+
+}
